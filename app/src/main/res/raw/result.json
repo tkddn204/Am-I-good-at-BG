@@ -1,0 +1,38 @@
+[
+  {
+    "name": "완벽",
+    "content": "당신은 배그 일인자!\n랭커하셔도 되겠어요!",
+    "min_score": 49,
+    "image_name": "level_perfect"
+  },
+  {
+    "name": "굇수",
+    "content": "와! 레이팅 2500은 넘을 실력인데요?",
+    "min_score": 44,
+    "image_name": "level_top"
+  },
+  {
+    "name": "고수",
+    "content": "레이팅 2200~2400 정도의 실력입니다!",
+    "min_score": 36,
+    "image_name": "level_good"
+  },
+  {
+    "name": "평타",
+    "content": "레이팅 2000은 넘겠네요!",
+    "min_score": 29,
+    "image_name": "level_normal"
+  },
+  {
+    "name": "초보",
+    "content": "레이팅 2000에 도전해보세요!",
+    "min_score": 20,
+    "image_name": "level_bad"
+  },
+  {
+    "name": "뉴비",
+    "content": "레이팅보다는 평소 실력을 갈고 닦아야겠어요!",
+    "min_score": 10,
+    "image_name": "level_new"
+  }
+]

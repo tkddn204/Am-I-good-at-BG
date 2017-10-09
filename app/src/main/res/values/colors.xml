@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorBottomBarBackground">#333333</color>
+    <color name="colorPollText">#EEEEEE</color>
+    <color name="colorPageBarLine">#222222</color>
+    <color name="colorPageSelected">#888888</color>
+
+    <color name="colorBackground">#F0000000</color>
+</resources>

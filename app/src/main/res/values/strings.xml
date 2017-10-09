@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">나는 배그를 잘하는 편일까?</string>
+    <string name="main_button">화면을 눌러주세요!</string>
+
+    <string name="not_selected">질문에 답변해주세요!</string>
+    <string name="text_submit">완료</string>
+
+    <string name="button_back_to_main">돌아가기</string>
+    <string name="button_share">↗ 공유하기</string>
+    <string name="button_thanks">앱크레딧</string>
+
+    <!--섹션-->
+    <string name="first_subject_title">1단계\n질문답변</string>
+    <string name="first_subject_content">신뢰할 만한 결과를 위해 최선의 선택을 해주세요!!</string>
+
+    <string name="second_subject_title">2단계\n반응속도</string>
+    <string name="second_subject_content">◎ 동그라미를 최대한 빨리 클릭해주세요!!</string>
+
+    <string name="end_subject_title">수고하셨습니다!</string>
+    <string name="end_subject_content">잠시만 기다려주세요..</string>
+    <string name="end_subject_button">결과 보기</string>
+
+    <!--앱크레딧-->
+    <string name="app_credit_title">Thanks to</string>
+    <string name="thanks_list">
+        제작자 친구들\n
+        (자칭 레이팅 2400)
+    </string>
+    <string name="license">사용된 라이센스\napache license 2.0</string>
+    <string name="my_email">버그 발견 및 제작자 문의\ntkddn204@gmail.com</string>
+
+    <!--광고 - 따로 채워야함-->
+    <string name="app_id">1</string>
+    <string name="ad_banner_id">1</string>
+    <string name="ad_foreword_id">1</string>
+    <string name="ad_section_id">1</string>
+
+    <!--테스트-->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_question">Question</string>
+    <string name="text_page">1 / 10</string>
+    <string name="button_back_to_result">결과 화면으로 돌아가기</string>
+    <string name="not_my_mind">결과가 좀 아니다 싶으면??? 리뷰를!</string>
+
+</resources>
